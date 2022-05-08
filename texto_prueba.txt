@@ -1,1 +1,9 @@
-Texto Github
+	- git clone <url>
+	- git add - envia archivos al staging area donde los archivos estan listos para ser subidos a la nube
+	- Git add* incluye TODOS los cambios
+	- Git commit -m "message" crea la captura de los archivos en staging area. El mensaje debe ser descriptivo de la captura
+	- Git push - envia las capturas que tengamos hacia la nube para sincronizarlo a la nube
+	
+	- Git status - permite ver en que estado se encuentra nuestro repositorio
+	- Git pull - cuando algun compañero haga algún cambio y yo quiero actualizar mi repositorio local debo jalar lo actualizado con git pull
+Merge conflicts cuando líneas son modificadas
